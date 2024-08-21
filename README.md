@@ -4,7 +4,7 @@
 I prepared a Portfolio Website Project using HTML and CSS.
 With this project I aimed to understand how CSS works.
 
-## Fake it 'till you make it.
+## Fake it 'till you make it
 The main source that I've looked while working on this project:
 https://www.youtube.com/watch?v=RroDdybvu5s&t=301s
 
